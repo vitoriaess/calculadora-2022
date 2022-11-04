@@ -1,0 +1,38 @@
+body{
+  height: 100vh;
+  background-color: #ffffb5;
+}
+
+#tudo{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    top: 25%;
+}
+
+#especial{
+  width: 98%;
+  background-color: #f5c77e;
+  border:  solid #ee9e27;
+}
+
+.bot{
+  width: 66px;
+  padding: 20px;
+  margin: 0 0.3vw;
+  background-color: #f5cec7;
+  border:  solid #6f233f;
+}
+
+.linha{
+  margin: 8px 0;
+}
+
+.linha input{
+    background-color: #a3b995;
+    margin: 0;
+    width: 98%;
+    padding: 10px 0px;
+    border: 2px solid #273248;
+}
